@@ -3,6 +3,8 @@ package de.nikolas.binarysearch;
 import java.util.Optional;
 
 /**
+ * TODO: First element can't be found -> fix
+ *
  * @author Nikolas Rummel
  * @version 1.0
  * @since 02.08.2021
